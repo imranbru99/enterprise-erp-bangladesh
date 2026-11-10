@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "enterprise-erp-bangladesh",
+  "description": "Enterprise ERP Solution — Enterprise Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Unified enterprise resource planning across supply chain, financial ledger, inventory, multi-company HR, and logistics for Bangladesh business groups. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "enterprise",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/enterprise-erp-bangladesh"
+}
